@@ -1,5 +1,5 @@
 /* Adventure Model Class
-	 * @author KristenUsui, AlexanderArrington, JoseManotas, RashiTripathi
+	 * @author 
 	 *05/08/18
 	 */
 public class AdventureModel 

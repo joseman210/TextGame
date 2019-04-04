@@ -1,5 +1,5 @@
 /* Text Adventure Class
-	 * @author KristenUsui, AlexanderArrington, JoseManotas, RashiTripathi
+	 * @author 
 	 *05/08/18
 	 * This class is where our game connects all of the classes together and launches the finished game*/
 import java.util.Scanner;

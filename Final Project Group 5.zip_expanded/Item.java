@@ -1,5 +1,5 @@
 /* Item Class
-	 * @author KristenUsui, AlexanderArrington, JoseManotas, RashiTripathi
+	 * 
 	 *05/08/18
 	 * This class was where objects of type Item are created and manipulated*/
 public class Item 

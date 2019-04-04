@@ -1,5 +1,5 @@
 /* Player Class
-	 * @author KristenUsui, AlexanderArrington, JoseManotas, RashiTripathi
+	 * @author 
 	 *05/08/18
 	 * This class was where objects of type player are created and manipulated
 	 * Also contains our method that checks if the player has enough points to win*/

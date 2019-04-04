@@ -1,5 +1,5 @@
 /* Inventory Class
-	 * @author KristenUsui, AlexanderArrington, JoseManotas, RashiTripathi
+	 * @author 
 	 *05/08/18
 	 * This class creates an inventory, keeps a running count of the value of each item you pick up, and 
 	 * calculates the total value of the items in the inventory*/

@@ -1,5 +1,5 @@
 /* Room Class
-	 * @author KristenUsui, AlexanderArrington, JoseManotas, RashiTripathi
+	 * 
 	 *05/08/18
 	 * This class was where objects of type Room are created and manipulated, features each room in the game with descriptions and actions*/
 import java.util.Scanner;
